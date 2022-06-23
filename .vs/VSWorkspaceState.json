@@ -1,15 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\gradle",
+    "\\gradle\\wrapper",
     "\\src",
     "\\src\\main",
-    "\\src\\main\\java\\team",
-    "\\src\\main\\java\\team\\chisel",
-    "\\src\\main\\java\\team\\chisel\\ctm",
-    "\\src\\main\\java\\team\\chisel\\ctm\\api",
-    "\\src\\main\\java\\team\\chisel\\ctm\\api\\client",
-    "\\src\\main\\java\\team\\chisel\\ctm\\client",
-    "\\src\\main\\java\\team\\chisel\\ctm\\client\\config"
+    "\\src\\main\\resources",
+    "\\src\\testmod",
+    "\\src\\testmod\\resources"
   ],
+  "SelectedNode": "\\src\\testmod\\resources\\fabric.mod.json",
   "PreviewInSolutionExplorer": false
 }

@@ -20,10 +20,12 @@ classes/
 
 .settings/
 .vscode/
-.vs/
 bin/
 .classpath
 .project
+
+# vs
+.vs/
 
 # macos
 
